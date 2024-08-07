@@ -1,5 +1,4 @@
-{
-  "activities": [
+ [
     {
       "id": "1",
       "checked": false,
@@ -16,4 +15,3 @@
       "description": "Give Money"
     }
   ]
-}
